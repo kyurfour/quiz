@@ -224,13 +224,6 @@
                             <constraint firstItem="h6f-S5-rms" firstAttribute="trailing" secondItem="AXp-Mg-pG2" secondAttribute="trailing" constant="20" id="zLk-jp-a14"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="h6f-S5-rms"/>
-                        <variation key="default">
-                            <mask key="subviews">
-                                <exclude reference="N5D-hW-qSz"/>
-                                <exclude reference="AXp-Mg-pG2"/>
-                                <exclude reference="8hP-Te-aTD"/>
-                            </mask>
-                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Вопрос №" id="T1P-U1-JPa">
                         <barButtonItem key="backBarButtonItem" title="Назад" id="b4T-Hq-LTI"/>
