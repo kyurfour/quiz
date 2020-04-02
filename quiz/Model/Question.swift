@@ -43,7 +43,7 @@ extension Question {
                 answers: [
                     Answer(text: "Ненавижу", type: .dog),
                     Answer(text: "Нервничаю", type: .cat),
-                    Answer(text: "Незамечаю", type: .rabbit),
+                    Answer(text: "Не замечаю", type: .rabbit),
                     Answer(text: "Обожаю", type: .turtle),
                 ]
             ),
