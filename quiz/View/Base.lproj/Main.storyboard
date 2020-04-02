@@ -276,12 +276,12 @@
                         <outletCollection property="multipleLabels" destination="tbY-rU-Ijg" collectionClass="NSMutableArray" id="OKm-KY-rls"/>
                         <outletCollection property="multipleLabels" destination="dBb-9u-GQH" collectionClass="NSMutableArray" id="pm5-Q7-rFy"/>
                         <outletCollection property="multipleLabels" destination="OBW-Un-dLY" collectionClass="NSMutableArray" id="INZ-lp-9LB"/>
-                        <outletCollection property="miltipleSwitches" destination="fCP-zp-Jcr" collectionClass="NSMutableArray" id="l5f-56-XZE"/>
-                        <outletCollection property="miltipleSwitches" destination="wWA-a3-nDX" collectionClass="NSMutableArray" id="3qr-i1-zVS"/>
-                        <outletCollection property="miltipleSwitches" destination="vR8-Fl-6ao" collectionClass="NSMutableArray" id="Ejd-lq-ngD"/>
-                        <outletCollection property="miltipleSwitches" destination="bfW-xW-WlO" collectionClass="NSMutableArray" id="rFP-V6-1lO"/>
                         <outletCollection property="rangedLabels" destination="qlA-X0-KhC" collectionClass="NSMutableArray" id="35M-IB-sYB"/>
                         <outletCollection property="rangedLabels" destination="cxc-U7-G4Q" collectionClass="NSMutableArray" id="ZDs-Bh-CpK"/>
+                        <outletCollection property="multipleSwitches" destination="fCP-zp-Jcr" collectionClass="NSMutableArray" id="KeC-lo-tHx"/>
+                        <outletCollection property="multipleSwitches" destination="wWA-a3-nDX" collectionClass="NSMutableArray" id="hX8-Kv-4af"/>
+                        <outletCollection property="multipleSwitches" destination="vR8-Fl-6ao" collectionClass="NSMutableArray" id="bZH-LH-Yvw"/>
+                        <outletCollection property="multipleSwitches" destination="bfW-xW-WlO" collectionClass="NSMutableArray" id="BGI-tu-irb"/>
                         <segue destination="enM-Le-NRT" kind="show" identifier="resultSegue" id="NOe-aZ-JHP"/>
                     </connections>
                 </viewController>
